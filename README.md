@@ -1,4 +1,4 @@
-# CNC-Produts
+# CNC-Products
 # GANESH
 ## Machine setup 
 ### Bit detiles 
@@ -14,4 +14,3 @@
 - Size 304mm * 203mm
 ### Software 
 - Vectric aspire 9.514
--
